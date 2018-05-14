@@ -1,2 +1,2 @@
 # website
-Setup website. This is  a site for only practicing some html/css.
+Setup website. This is  a site only for practicing some html/css.
